@@ -106,7 +106,7 @@ function Hivovocontent() {
                      <img src={documentqa} className='logo-xircular' style={{width:"100%",height:"100%",objectFit:"cover"}}/>
                      </div>
                     <div style={{ paddingTop: "30px", paddingBottom: "10px",letterSpacing:"0.5px" }} className='items-title-div'><b>DOCUMENT-QA</b></div>
-                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>A document-based AI chatbot providing accurate answers to questions related to company details, with clear references to the source information</div> 
+                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Our Document-Based AI Chatbot simplifies access to company information. It's powered by company documents and data sources, providing instant responses to natural language queries. This means employees can effortlessly retrieve policies and documents, making information readily accessible.</div> 
                        <div style={{paddingTop:"20px"}} className='how-it-works-section' onClick={() => popupeditdocument()}><span  className='how-it-works-section-two'></span>READ MORE</div>
                  
                   </div>
@@ -116,7 +116,7 @@ function Hivovocontent() {
                      <img src={Employee} className='logo-xircular' style={{width:"100%",height:"100%",objectFit:"cover"}}/>
                      </div>
                     <div style={{ paddingTop: "30px", paddingBottom: "10px",letterSpacing:"0.5px" }} className='items-title-div'><b>EMPLOYEE-DASHBOARD</b></div>
-                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Elevate your workforce management with our AI chatbot, providing comprehensive employee work summaries and insightful visualizations through dynamic graphs</div> 
+                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>To simplify performance reporting, our Employee Work Summary Chatbot employs employee performance data and reporting tools. Picture a chatbot that engages with your HR system, effortlessly generating graphical work summaries and performance insights, making management more data-driven and efficient.</div> 
                        <div style={{paddingTop:"20px"}} className='how-it-works-section' onClick={() => popupeditemployee()}><span  className='how-it-works-section-two'></span>READ MORE</div>
                  
                   </div>
@@ -137,7 +137,7 @@ function Hivovocontent() {
                      <img src={facerecog} className='logo-xircular' style={{width:"100%",height:"100%",objectFit:"cover"}}/>
                      </div>
                     <div style={{ paddingTop: "30px", paddingBottom: "10px",letterSpacing:"0.5px" }} className='items-title-div'><b>FACE-RECOGNITION</b></div>
-                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Unlock the power of AI-driven face recognition with our cutting-edge technology, offering enhanced security and personalized experiences.</div> 
+                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Enhance security and convenience with Face Recognition Technology. By utilizing a database of facial images, we accurately identify individuals based on their unique features. This technology streamlines access control, ensuring only authorized individuals gain entry, making facilities safer and more efficient.</div> 
                        <div style={{paddingTop:"20px"}} className='how-it-works-section' onClick={() => popupeditface()}><span  className='how-it-works-section-two'></span>READ MORE</div>
                  
                   </div>
@@ -148,7 +148,7 @@ function Hivovocontent() {
                      <img src={sentiment} className='logo-xircular' style={{width:"100%",height:"100%",objectFit:"cover"}}/>
                      </div>
                     <div style={{ paddingTop: "30px", paddingBottom: "10px",letterSpacing:"0.5px" }} className='items-title-div'><b>SENTIMENTAL-ANALYSIS</b></div>
-                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Gain deep customer insights with our AI sentiment analysis tool, pinpointing positive and negative aspects within customer reviews for data-driven decision-making</div> 
+                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>Understand your customers better with Sentiment Analysis for Customer Reviews. This technology leverages access to customer reviews and feedback, allowing you to gain valuable insights into customer sentiment. Make informed decisions and improve customer satisfaction based on real-time feedback.</div> 
                        <div style={{paddingTop:"20px"}} className='how-it-works-section' onClick={() => popupeditsentiment()}><span  className='how-it-works-section-two' ></span>READ MORE</div>
                  
                   </div>
