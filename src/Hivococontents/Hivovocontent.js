@@ -96,7 +96,7 @@ function Hivovocontent() {
                      <img src={sales} className='logo-xircular' style={{width:"100%",height:"100%",objectFit:"cover"}}/>
                      </div>
                     <div style={{ paddingTop: "30px", paddingBottom: "10px",letterSpacing:"0.5px" }} className='items-title-div'><b>SALES-AGENT</b></div>
-                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>To boost revenue and efficiency in car workshops, we implement a Virtual Sales Agent. It relies on workshop data and customer profiles, enabling personalized service recommendations and easy appointment scheduling. Imagine a digital assistant that guides customers and increases workshop bookings.</div> 
+                       <div style={{paddingTop:"10px", className:"item-dec-div"}} className='items-title-description'>To boost revenue and efficiency in your products, we implement a Virtual Sales Agent. It relies on product data and customer profiles, enabling personalized service recommendations and easy appointment scheduling. Imagine a digital assistant that guides customers and increases product sales.</div> 
                        <div style={{paddingTop:"20px"}} className='how-it-works-section'onClick={() => popupeditsales()}><span  className='how-it-works-section-two'></span>READ MORE</div>
                  
                   </div>
